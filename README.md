@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-######🔭 I’m currently working on Data Structes and Algorithms
+###### I’m currently working on Data Structes and Algorithms 📚
 
 <!--
 Here are some ideas to get you started:
